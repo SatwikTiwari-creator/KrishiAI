@@ -1,0 +1,25 @@
+{
+  "name": "kisan-hit-monorepo",
+  "version": "1.0.0",
+  "description": "AI-Powered Smart Farming Application for Crop Health, Disease Detection, Soil Analysis, and Market Price Forecasting",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "start": "cd backend && npm start"
+  },
+  "keywords": [
+    "agriculture",
+    "ai",
+    "farming",
+    "crop-disease",
+    "smart-farming"
+  ],
+  "author": "Kisan Hit Team",
+  "license": "MIT"
+}
