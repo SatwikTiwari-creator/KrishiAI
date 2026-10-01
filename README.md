@@ -1,4 +1,6 @@
-# Kisan Hit - AI-Powered Smart Farming Platform
+# KrishiAI
+
+## Kisan Hit - AI-Powered Smart Farming Platform
 
 Kisan Hit is a production-ready, full-stack smart farming web application designed to empower farmers with cutting-edge artificial intelligence tools. It features **Crop Health Scanning, Plant Disease Detection, Soil Analysis, Live Mandi Prices, Weekly AI Price Forecasting, and a Multilingual Agronomy Chatbot (Kisan Mitra)**.
 
